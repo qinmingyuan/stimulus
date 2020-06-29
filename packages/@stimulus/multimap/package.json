@@ -16,5 +16,6 @@
   },
   "scripts": {
     "clean": "rimraf dist"
-  }
+  },
+  "gitHead": "94f1126af2924377fea198b5e14183c2abddc1e1"
 }

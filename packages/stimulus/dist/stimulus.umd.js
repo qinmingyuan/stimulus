@@ -1,5 +1,5 @@
 /*
-Stimulus 1.1.1
+Stimulus 1.2.0
 Copyright © 2020 Basecamp, LLC
  */
 (function(global, factory) {
